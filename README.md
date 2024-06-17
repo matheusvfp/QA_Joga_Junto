@@ -4,4 +4,5 @@ Bem-vindo ao repositório de projetos desenvolvidos durante o curso de QA módul
 
 <p align="center">
   <img src="https://github.com/matheusvfp/Joga_junto_QA/assets/65199677/6e059190-9837-4529-b496-010e3fed367e" alt="image">
+  
 </p>
