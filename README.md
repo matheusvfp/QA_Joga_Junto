@@ -1,4 +1,4 @@
-### Curso de QA Avançado - Instituto Joga Junto
+## BUGOU? QA TA ON - Módulo Avançado
 
 Bem-vindo ao repositório de projetos desenvolvidos durante o curso de QA módulo Avançado oferecido pelo Instituto Joga Junto. Este curso foi projetado para fornecer conhecimentos aprofundados e práticos em Garantia de Qualidade (QA), abordando técnicas e ferramentas avançadas para assegurar a excelência no desenvolvimento de software.
 
