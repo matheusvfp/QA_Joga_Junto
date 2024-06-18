@@ -3,10 +3,13 @@ tupla = ('hamburguer', 'Pizza', 'Feijoada', 'Lasanha', 'Sorvete')
 
 lista = list(tupla)
 
+#adicionar mais de um elemneto: extend
+#adicionar um elemento na lista: append
+
 lista.extend(['Biscoito', 'Frango']) 
 
-lista.pop(0)
 
+lista.pop(0)
 lista.pop()
 
 print(f"primeiro dado da lista: {lista[0]}")
