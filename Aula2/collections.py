@@ -17,4 +17,4 @@ dicionario = {
     "idade": 25
 }
 
-print(dicionario)
+print(dicionario["nome"])
