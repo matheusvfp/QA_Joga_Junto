@@ -3,7 +3,7 @@ tupla = ('hamburguer', 'Pizza', 'Feijoada', 'Lasanha', 'Sorvete')
 
 lista = list(tupla)
 
-#adicionar mais de um elemneto: extend
+#adicionar mais de um elemento na lista: extend
 #adicionar um elemento na lista: append
 
 lista.extend(['Biscoito', 'Frango']) 

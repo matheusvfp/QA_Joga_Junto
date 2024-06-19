@@ -1,11 +1,11 @@
 Atividade Final
-☐ Criar uma tupla com 5 dados
-☐ Alterar a tupla para lista
-☐ Inserir 2 dados extras na lista 
-☐ Remover o primeiro dado da lista 
-☐ Remover o último dado da lista 
-☐ Faça o print com o primeiro dado da lista 
-☐ Faça o print com a quantidade de dados da lista 
-☐ Crie um dicionário com os seguintes dados: Nome, Idade, Profissão
-☐ Imprima o valor contido na chave Nome no dicionário 
+✔ Criar uma tupla com 5 dados @done(24-06-18 18:55)
+✔ Alterar a tupla para lista @done(24-06-18 18:55)
+✔ Inserir 2 dados extras na lista @done(24-06-18 18:58)
+✔ Remover o primeiro dado da lista @done(24-06-18 19:02)
+✔ Remover o último dado da lista @done(24-06-18 19:02)
+✔ Faça o print com o primeiro dado da lista @done(24-06-18 19:02)
+✔ Faça o print com a quantidade de dados da lista @done(24-06-18 19:03)
+✔ Crie um dicionário com os seguintes dados: Nome, Idade, Profissão @done(24-06-18 19:03)
+✔ Imprima o valor contido na chave Nome no dicionário @done(24-06-18 19:03)
 
