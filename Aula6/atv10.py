@@ -1,5 +1,4 @@
-def verificar_paridade(matricula):
-    numero = int(matricula)
+def verificar_paridade(numero):
     
     if numero % 2 == 0:
         return 'VOCÊ ESTÁ NO TIME AZUL'  
