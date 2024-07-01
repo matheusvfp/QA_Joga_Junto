@@ -38,7 +38,6 @@ def consuta_cep (cep):
           "erro": f"Erro na execução: {response.status_code}",
              "status_codes": {
                     "1xx": "Informativo: Informação recebida e processamento continua.",
-                    "2xx": "Sucesso: Requisição foi bem-sucedida.",
                     "3xx": "Redirecionamento: Ação adicional necessária para completar a requisição.",
                     "4xx": "Erro do Cliente: Requisição possui erro ou não pode ser completada.",
                     "5xx": "Erro do Servidor: Servidor encontrou um erro ao tentar completar a requisição."
@@ -48,6 +47,8 @@ def consuta_cep (cep):
 def exibir(integrantes):
     for chave, valor in integrantes.items():
         nome = valor["nome"]
-        cep = consuta_cep(valor["cep"])
-        print(f"Nome: {nome}, cidade: {cep}")
+        cidade = consuta_cep(valor["cep"])
+        print(f"Nome: {nome}, cidade: {cidade}")
         
+
+ 
