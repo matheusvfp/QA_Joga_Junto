@@ -7,15 +7,15 @@ integrantes = {
     },
     "integrante_2" : {
         "nome" : "Edson",
-        "cep" : "01153000"
+        "cep" : "06817180"
     },
     "integrante_3" : {
         "nome" : "Marcus",
-        "cep" : "59900000"
+        "cep" : "68040410"
     },
     "integrante_4" : {
         "nome" : "Yuri",
-        "cep" : "59900000"
+        "cep" : "42738320"
     },
     "integrante_5" : {
         "nome" : "Joyce Mayara",
