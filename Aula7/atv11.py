@@ -1,16 +1,8 @@
-from faker import Faker
+import atv11_functions as func
 
-faker = Faker('pt_BR')
+quant_personas = int(input("Digite a quantidade de personas: "))
 
-def gerar_pessoa ():
-    nome = faker.name()
-    idade = faker.random_int(min=18, max=18)
-    cidade = faker.city
-    
-    return{
-        "Nome" : nome,
-        "Idade" : idade,
-        "Cidade" : cidade
-    }
-    
-print(gerar_pessoa())
+df_lista_personas = func.gerar_dataframe(quant_personas)
+
+
+print(df_lista_personas)
